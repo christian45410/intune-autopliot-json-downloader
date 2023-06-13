@@ -1,6 +1,6 @@
 # Intune-Autopliot-Json-Downloader
 
-This PowerShell application provides a graphical user interface (GUI) for managing Autopilot profiles and updating required modules. It allows you to connect to an Azure tenant, browse for a directory to save Autopilot profile json, and update the necessary PowerShell modules.
+This PowerShell application provides a graphical user interface (GUI) for downloading AutopilotConfigurationFile.json from Intune via Graph API. It allows you to connect to an Azure tenant, browse for a directory to save Autopilot profile json, and update the necessary PowerShell modules.
 
 ![image](https://raw.githubusercontent.com/christian45410/intune-autopliot-json-downloader/main/Screenshot.png)
 
